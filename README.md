@@ -1,19 +1,14 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!%20I'm%20Gouyeon🙂&fontSize=90)
+<div align = center>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&height=200&section=header&text=Hi!%20I'm%20gouyeonch!🙂&fontSize=50"/>
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
-<!--
-**gouyeonch/gouyeonch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgouyeonch%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Shortood's GitHub stats](https://github-readme-stats.vercel.app/api?username=gouyeonch&show_icons=true&theme=tokyonight)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gouyeonch&layout=compact&theme=tokyonight)
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gouyeonch)](https://solved.ac/gouyeonch)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&height=200&section=footer)
+</div>
