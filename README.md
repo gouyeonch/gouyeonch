@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div align = center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&height=200&section=header&text=Hi!%20I'm%20gouyeonch!🙂&fontSize=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F7FD5&height=200&section=header&text=Hi!%20I'm%20Gouyeon!🙂&fontSize=50"/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgouyeonch%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
