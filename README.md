@@ -10,7 +10,7 @@
 (2023.09 ~ 2024.8) GDSC DGU 1기 Server Cloud GM<br>
 (2023.12 ~ ing) Project Poppin<br>
 (2019.03 ~ ing) 동국대학교 컴퓨터공학과<br>
-(2025.06 ~ 2025.09) Line Pay Plus Intern<br>
+(2025.06 ~ 2025.09) LINE Pay Plus Intern<br>
 <br>
 ## ⚙️ Skill
 | TYPE | LIST |
